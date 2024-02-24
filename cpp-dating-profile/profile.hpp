@@ -1,6 +1,3 @@
-
-
-// profile.hpp
 #ifndef PROFILE_HPP
 #define PROFILE_HPP
 
